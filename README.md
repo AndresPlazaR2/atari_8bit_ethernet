@@ -15,7 +15,11 @@ The Olimex CS8900A-H and the IP Dragon II boards use the same chipset ([Cirrus L
 
 The directories are self explanatory (I think); if there is any clarification needed let me know.
 
+On April 2024 I finished the design and testing of the PCB for this card:
+![PCB working](/pictures/working_2.jpg)
+![PCB and populated board](/pictures/PCB_and_populated.jpg)
+
+You can find more pictures of it in the `pictures` directory, and the Gerber files to build it in `gerber`.
+
 Here is a picture of the development/prototype board:
 ![development and protoype board](/pictures/dev_prototype.jpg)
-
-Currently (March 2024) I'm working on a PCB board to integrate everything. I will upload the gerber files once everything is working.
